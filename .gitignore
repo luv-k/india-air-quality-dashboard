@@ -1,0 +1,7 @@
+*.csv
+.DS_Store
+Thumbs.db
+*.log
+*.pbi*
+!india_air_quality.pbix
+.pbi/
